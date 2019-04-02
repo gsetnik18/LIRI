@@ -1,0 +1,23 @@
+{
+  "name": "unit-8-liri",
+  "version": "1.0.0",
+  "description": "Repo for LIRI, with Spotify, Bands In Town, and OMDb API calls using Axios package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsetnik18/unit-8-liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsetnik18/unit-8-liri/issues"
+  },
+  "homepage": "https://github.com/gsetnik18/unit-8-liri#readme",
+  "dependencies": {
+    "config": "^3.0.1"
+  }
+}
