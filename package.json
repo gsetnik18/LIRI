@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/gsetnik18/unit-8-liri#readme",
   "dependencies": {
-    "config": "^3.0.1"
+    "axios": "^0.18.0",
+    "config": "^3.0.1",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
   }
 }

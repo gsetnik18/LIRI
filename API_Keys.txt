@@ -1,0 +1,6 @@
+Spotify Client ID b9f747c7ff28447da440bec56ca616eb
+Spotify Client Secret 6641b11a704944d9a689f9af568e38ad
+
+Bandsintown Client ID f1122d9f56e00df3d3b9219bc97f9fda
+
+OMDb API Key e4b66255
